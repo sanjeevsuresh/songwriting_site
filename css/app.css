@@ -1,0 +1,82 @@
+.songwriting_home {
+	background: #4DA0B0; /* fallback for old browsers */
+	background: -webkit-linear-gradient(to left, #4DA0B0 , #D39D38); /* Chrome 10-25, Safari 5.1-6 */
+	background: linear-gradient(to left, #4DA0B0 , #D39D38); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+@font-face {
+	font-family: 'GoodVibes';
+	src: url("./great-vibes/GreatVibes-Regular.otf");
+}
+.welcome {
+	padding-top: 30%;
+	text-align: center;
+	font-family: 'GoodVibes';
+	font-size: 70px;
+	color: white;
+}
+.decal-welcome {
+	padding-top: 10px;
+	padding-left: 100px;
+	text-align: center;
+	font-family: 'GoodVibes';
+	font-size: 30px;
+	color: black;
+}
+.options a {
+	color: black;
+	text-decoration: none;
+}
+.options a:hover {
+	text-decoration: underline;
+}
+.options {
+	font-family: 'Montserrat', sans-serif;
+	color: white;
+	text-align: center;
+}
+
+#appear {
+	-webkit-animation-duration: 2s;
+	-webkit-animation-delay: 1s;
+}
+.container {
+	padding-top: 100px;
+	width: 500px;
+	margin: 0 auto;
+}
+.disclaimer, .disclaimer-header {
+	text-align: center;
+}
+.disclaimer {
+	font-size: 12px;
+}
+.disclaimer-header {
+	font-size: 20px;
+}
+.badge-container {
+	width: 100px;
+	margin: 0 auto;
+}
+#footeranimation {
+	-webkit-animation-duration: 2s;
+	-webkit-animation-delay: 2s;
+}
+.decal-header {
+	font-size: 25px;
+}
+.decal-title {
+	font-size: 50px;
+	font-family: 'GoodVibes';
+	text-align: center;
+	padding-top: 50px;
+}
+.decal-subheader {
+	font-size: 20px;
+	font-weight: bold;
+}
+.description {
+	font-size: 18px;
+}
+.listy {
+	font-size: 18px;
+}
